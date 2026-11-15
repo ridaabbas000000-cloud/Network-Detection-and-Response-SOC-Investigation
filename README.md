@@ -91,4 +91,8 @@ The investigation identified an internal host (`10.10.1.128`) executing an autom
 - [SOC Incident Report.pdf](SOC%20Incident%20Report.pdf) — Comprehensive SOC incident report and detailed triage notes
 - [Splunk SPL Investigation Queries.pdf](Splunk%20SPL%20Investigation%20Queries.pdf) — Splunk SPL search queries and EDR/NDR correlation logic                # 
 
+## 👤 Author
+
+**Rida**
+* **GitHub:** [@ridaabbas000000](https://github.com/ridaabbas000000)
 
