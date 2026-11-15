@@ -93,6 +93,6 @@ The investigation identified an internal host (`10.10.1.128`) executing an autom
 
 ## 👤 Author
 
-**Rida**
-* **GitHub:** [@ridaabbas000000](https://github.com/ridaabbas000000)
+**Your Name**
+* **GitHub:** (https://github.com/ridaabbas000000-cloud)
 
