@@ -82,12 +82,13 @@ The investigation identified an internal host (`10.10.1.128`) executing an autom
 
 ---
 
+
+
+
 ## 📁 Repository Structure
 
-```text
-├── docs/
-│   ├── incident-report.md    # Comprehensive SOC incident report and detailed triage notes
-│   └── splunk-queries.spl    # Splunk SPL search queries and EDR/NDR correlation logic
-└── README.md                 # Project overview, architecture, and executive summary
-```
+- [README.md](README.md) — Project overview, architecture, and executive summary
+- [SOC Incident Report.pdf](SOC%20Incident%20Report.pdf) — Comprehensive SOC incident report and detailed triage notes
+- [Splunk SPL Investigation Queries.pdf](Splunk%20SPL%20Investigation%20Queries.pdf) — Splunk SPL search queries and EDR/NDR correlation logic                # 
+
 
